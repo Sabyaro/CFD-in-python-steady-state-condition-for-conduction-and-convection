@@ -17,3 +17,7 @@ Assumptions:
   1. Steady state
   2. Area, volume, grid size, density, diffusivity, velocity are constant
   3. steady state constant source term
+
+
+
+Reference: An Introduction to Computation Fluid Dynamics-The Finite Volume Method by H.K.Versteeg & W. Malalasekera
